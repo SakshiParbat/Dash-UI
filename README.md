@@ -1,4 +1,3 @@
-=======
 # 💻 Dash UI - React Dashboard
 
 A modern and responsive finance dashboard built using React.js. This project demonstrates clean UI design, reusable components, and interactive features.
