@@ -83,4 +83,3 @@ npm run build
 ## ⭐ Show your support
 
 Give a ⭐ if you like this project!
->>>>>>> 886bc9a6fc069e73bed42f9b1c0dca8783d401f2
