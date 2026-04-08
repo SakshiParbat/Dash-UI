@@ -42,7 +42,7 @@ A modern and responsive finance dashboard built using React.js. This project dem
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/dash-ui.git
+git clone https://github.com/SakshiParbat/Dash-UI/blob/main/README.md
 ```
 
 Navigate to project folder:
